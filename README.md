@@ -1,0 +1,3 @@
+# beanhappy
+
+Android Team project
